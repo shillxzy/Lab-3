@@ -1,0 +1,14 @@
+C:\Users\dmska\source\repos\Lab3\06\bin\Debug\net8.0\06.exe
+C:\Users\dmska\source\repos\Lab3\06\bin\Debug\net8.0\06.deps.json
+C:\Users\dmska\source\repos\Lab3\06\bin\Debug\net8.0\06.runtimeconfig.json
+C:\Users\dmska\source\repos\Lab3\06\bin\Debug\net8.0\06.dll
+C:\Users\dmska\source\repos\Lab3\06\bin\Debug\net8.0\06.pdb
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.AssemblyInfoInputs.cache
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.AssemblyInfo.cs
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.csproj.CoreCompileInputs.cache
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.dll
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\refint\06.dll
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.pdb
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\06.genruntimeconfig.cache
+C:\Users\dmska\source\repos\Lab3\06\obj\Debug\net8.0\ref\06.dll
