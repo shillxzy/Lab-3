@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{163D35BC-4900-44D1-8BC1-4E6804C49AA2}|06\\06.csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DAD49B6-A8BF-4948-AEF1-0805319487A2}|03\\03.csproj|c:\\users\\dmska\\source\\repos\\lab3\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DAD49B6-A8BF-4948-AEF1-0805319487A2}|03\\03.csproj|solutionrelative:03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6AE50D-2945-4381-9432-8A7FE1D6D54C}|02\\02.csproj|c:\\users\\dmska\\source\\repos\\lab3\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6AE50D-2945-4381-9432-8A7FE1D6D54C}|02\\02.csproj|solutionrelative:02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87148026-782F-49AB-972A-0DD9BBD8A84C}|01\\01.csproj|c:\\users\\dmska\\source\\repos\\lab3\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87148026-782F-49AB-972A-0DD9BBD8A84C}|01\\01.csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15CE288D-7270-4CDE-A5F4-F6BB77A105B2}|05\\05.csproj|c:\\users\\dmska\\source\\repos\\lab3\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15CE288D-7270-4CDE-A5F4-F6BB77A105B2}|05\\05.csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212F486A-2599-420E-9D98-9E0FE73F2781}|04\\04.csproj|c:\\users\\dmska\\source\\repos\\lab3\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212F486A-2599-420E-9D98-9E0FE73F2781}|04\\04.csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:33:43.655Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,41 +47,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\03\\Program.cs",
-              "RelativeDocumentMoniker": "03\\Program.cs",
-              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\03\\Program.cs",
-              "RelativeToolTip": "03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T11:53:21.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\02\\Program.cs",
-              "RelativeDocumentMoniker": "02\\Program.cs",
-              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\02\\Program.cs",
-              "RelativeToolTip": "02\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T11:53:16.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\01\\Program.cs",
-              "RelativeDocumentMoniker": "01\\Program.cs",
-              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\01\\Program.cs",
-              "RelativeToolTip": "01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T11:53:09.859Z",
+              "WhenOpened": "2024-08-26T12:30:56.212Z",
               "EditorCaption": ""
             },
             {
@@ -87,22 +66,9 @@
               "RelativeDocumentMoniker": "06\\Program.cs",
               "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\06\\Program.cs",
               "RelativeToolTip": "06\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswIgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T10:22:07.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dmska\\source\\repos\\Lab3\\05\\Program.cs",
-              "RelativeDocumentMoniker": "05\\Program.cs",
-              "ToolTip": "C:\\Users\\dmska\\source\\repos\\Lab3\\05\\Program.cs",
-              "RelativeToolTip": "05\\Program.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAswAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T08:29:48.61Z",
+              "WhenOpened": "2024-08-26T12:29:52.115Z",
               "EditorCaption": ""
             }
           ]

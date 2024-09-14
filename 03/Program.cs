@@ -36,7 +36,7 @@ namespace MyProgram
         }
     }
 
-    class Family : Person
+    class Family 
     {
         private List<Person> members;
         public Family()
@@ -46,7 +46,7 @@ namespace MyProgram
 
         public void AddMember(Person member)
         {
-            this.members.Add(member);
+            members.Add(member);
         }
 
         public Person GetOldestMember()
@@ -72,7 +72,6 @@ namespace MyProgram
             int n = int.Parse(Console.ReadLine());
             Family family = new Family();
 
-
             for(int i = 0; i < n; i++)
             {
                 string[] a = Console.ReadLine().Split(' ');
@@ -86,16 +85,6 @@ namespace MyProgram
 
             Person older = family.GetOldestMember();
             Console.WriteLine(older.Name + " " + older.Age);
-
-
-
-
-
-
-
-
-
-
 
         }
     }
